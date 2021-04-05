@@ -482,59 +482,6 @@
                 android:soundEffectsEnabled="true"
                 android:src="@drawable/abcde15"
                 tools:src="@drawable/abcde15" />
-
-            <ImageButton
-                android:id="@+id/none16"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="100"
-                android:background="#00FFFFFF"
-                android:onClick="@android:string/selectAll"
-                android:scaleX="1"
-                android:scaleY="1"
-                android:soundEffectsEnabled="true"
-                android:src="@drawable/nonetex"
-                tools:src="@drawable/nonetex" />
-
-            <ImageButton
-                android:id="@+id/bFilter17"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:background="#00FFFFFF"
-                android:onClick="@android:string/selectAll"
-                android:scaleX="1.5"
-                android:scaleY="1.5"
-                android:soundEffectsEnabled="true"
-                android:src="@drawable/abcde15"
-                tools:src="@drawable/abcde15" />
-
-            <ImageButton
-                android:id="@+id/none17"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="100"
-                android:background="#00FFFFFF"
-                android:onClick="@android:string/selectAll"
-                android:scaleX="1"
-                android:scaleY="1"
-                android:soundEffectsEnabled="true"
-                android:src="@drawable/nonetex"
-                tools:src="@drawable/nonetex" />
-
-            <ImageButton
-                android:id="@+id/bFilter18"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:background="#00FFFFFF"
-                android:onClick="@android:string/selectAll"
-                android:scaleX="1.5"
-                android:scaleY="1.5"
-                android:soundEffectsEnabled="true"
-                android:src="@drawable/abcde15"
-                tools:src="@drawable/abcde15" />
-
         </LinearLayout>
     </HorizontalScrollView>
 
