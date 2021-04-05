@@ -237,16 +237,6 @@ public class BaseCameraActivity extends AppCompatActivity {
                 changeFilter(Filters.VIGNETTE);
             }
         });
-        findViewById(R.id.bFilter17).setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                changeFilter(Filters.WEAKPIXELINCLUSION);
-            }
-        });
-        findViewById(R.id.bFilter17).setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                changeFilter(Filters.CGA_COLOR_SPACE);
-            }
-        });
         findViewById(R.id.video_text).setBackgroundResource(R.drawable.edittext_bg);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
     }
